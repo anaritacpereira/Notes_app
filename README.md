@@ -26,10 +26,10 @@ $ npm install
 $ npm install react-icons
 $ npm install react-router-dom
 
-# Run
+# Run app
 $ npm run dev
 ```
 
-
+Now your application is done! Access the localhost indicated in the terminal.
 
 
