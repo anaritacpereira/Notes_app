@@ -1,37 +1,35 @@
 # Notes_app
 
 
-## How to use
-To clone and run this application, you'll need Node.js (which comes with npm) installed on your computer. From your command line:
+## How To Use
 
+To clone and run this application, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
+```bash
 
-
-
-# Install dependencies Frontend
-$ npm install
-
-# Install dependencies Backend
-- Go into the repository backend
+---- Backend:
+# Go into the repository Backend
 $ cd dummy-backend-project-23
-$ npm install
-
-# Run the app
-$ npm start
-
-# Go into the repository backend
-$ cd electron-markdownify
-
-
-
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
 
 # Install dependencies
 $ npm install
 
-# Run the app
+# Run
 $ npm start
+
+---- Frontend:
+# Go into the repository
+$ cd Notes_app
+
+# Install dependencies
+$ npm install
+$ npm install react-icons
+$ npm install react-router-dom
+
+# Run
+$ npm run dev
+```
+
+
+
+
