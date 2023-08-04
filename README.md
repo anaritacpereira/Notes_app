@@ -33,5 +33,5 @@ $ npm run dev
 Now your application is done! Access the localhost indicated in the terminal.
 
 ##
-<br>
+
 [screen-capture (1).webm](https://github.com/anaritacpereira/Notes_app/assets/127841235/bc4270ee-22a5-4916-87d3-3509a5a64f2f)
