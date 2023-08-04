@@ -1,5 +1,5 @@
 # Notes_app
-
+- Languages used: html5, css3, bootstrap, php, sql, javascript;
 
 ## How To Use
 
